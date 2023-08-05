@@ -1,2 +1,2 @@
 # Telco Custtomer Churn
-Predict behavior to retain customers. 
+EDA - Predict behavior to retain customers. 
